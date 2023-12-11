@@ -11,7 +11,13 @@
 
 - 📫 How to reach me **priyankcarpenter30@gmail.com**
 
-- I'm Fresher but deep interest in development [https://www.canva.com/design/DAFU_xa3x-I/MWqdJiTta77zZunmvs7F5g/view?utm_content=DAFU_xa3x-I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFU_xa3x-I/MWqdJiTta77zZunmvs7F5g/view?utm_content=DAFU_xa3x-I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+-"I am a Python Django Developer proficient in web development, web scraping, and database management. My toolset includes Beautiful Soup, Requests, Pandas, and JSON, allowing me to excel in crafting RESTful APIs using Django Rest Framework. Django User model for user authentication and leverage the Pillow library for image processing in Django.
+
+In data manipulation, I use Pandas for creating and working with DataFrames, simplifying filtering, grouping, and transforming data. Pandas seamlessly integrates with databases, enabling easy conversion of DataFrames to MYSQL tables and vice versa, enhancing data storage, retrieval, and analysis.
+
+Well-versed in Visual Studio Code, a powerful code editor, I efficiently manage development workflows. GitHub is my go-to for version control and collaborative practices. Grounded in the Model-View-Controller (MVC) architectural concept, I design clean and modular structures for enhanced maintainability and scalability.
+
+With a versatile skill set,  In creating APIs, seamlessly integrating pre-existing APIs, proficiently handling JSON responses, and leveraging Pandas for advanced data manipulation and analysis. Additionally, I have done PDF generation using Python libraries." [https://www.canva.com/design/DAFU_xa3x-I/MWqdJiTta77zZunmvs7F5g/view?utm_content=DAFU_xa3x-I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFU_xa3x-I/MWqdJiTta77zZunmvs7F5g/view?utm_content=DAFU_xa3x-I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
