@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm PRIYANKA CARPENTER</h1>
-<h3 align="center">I'm an aspiring PYTHON DEVELOPER</h3>
-
-- I have created these project with the help of PHYHON and DJANGO [BLOOD BANK MANAGEMENT PROJECT](https://github.com/Priya91110/Blood-Bank-Management-)
-
-- Now I'm learning **Python's Framework Django and Advance Python**
+<h3 align="center">PYTHON DEVELOPER</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Priya91110/](https://github.com/Priya91110/)
 
@@ -15,7 +11,8 @@
 
 In data manipulation, I use Pandas for creating and working with DataFrames, simplifying filtering, grouping, and transforming data. Pandas seamlessly integrates with databases, enabling easy conversion of DataFrames to MYSQL tables and vice versa, enhancing data storage, retrieval, and analysis.
 
-Well-versed in Visual Studio Code, a powerful code editor, I efficiently manage development workflows. GitHub is my go-to for version control and collaborative practices. Grounded in the Model-View-Controller (MVC) architectural concept, I design clean and modular structures for enhanced maintainability and scalability.
+Well-versed in Visual Studio Code, a powerful code editor, I efficiently manage development workflows. GitHub is my go-to for version control and collaborative practices. Grounded in the Model-View-Template (MV
+T) architectural concept, I design clean and modular structures for enhanced maintainability and scalability.
 
 With a versatile skill set,  In creating APIs, seamlessly integrating pre-existing APIs, proficiently handling JSON responses, and leveraging Pandas for advanced data manipulation and analysis. Additionally, I have done PDF generation using Python libraries." https://www.canva.com/design/DAFhr-wFkLc/Y1AafHK5Jihwr3HYB-HR7w/view?utm_content=DAFhr-wFkLc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 <h3 align="left">Connect with me:</h3>
