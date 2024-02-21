@@ -14,8 +14,8 @@ In data manipulation, I use Pandas for creating and working with DataFrames, sim
 Well-versed in Visual Studio Code, a powerful code editor, I efficiently manage development workflows. GitHub is my go-to for version control and collaborative practices. Grounded in the Model-View-Template (MV
 T) architectural concept, I design clean and modular structures for enhanced maintainability and scalability.
 
-With a versatile skill set,  In creating APIs, seamlessly integrating pre-existing APIs, proficiently handling JSON responses, and leveraging Pandas for advanced data manipulation and analysis. Additionally, I have done PDF generation using Python libraries." https://www.canva.com/design/DAFhr-wFkLc/Y1AafHK5Jihwr3HYB-HR7w/view?utm_content=DAFhr-wFkLc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
-<h3 align="left">Connect with me:</h3>
+With a versatile skill set,  In creating APIs, seamlessly integrating pre-existing APIs, proficiently handling JSON responses, and leveraging Pandas for advanced data manipulation and analysis. Additionally, I have done PDF generation using Python libraries." 
+<h](https://www.canva.com/design/DAFhr-wFkLc/Y1AafHK5Jihwr3HYB-HR7w/view?utm_content=DAFhr-wFkLc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/priyanka-carpenter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanka-carpenter" height="30" width="40" /></a>
 </p>
